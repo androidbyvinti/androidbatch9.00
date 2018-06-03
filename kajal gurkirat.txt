@@ -1,0 +1,47 @@
+ArrayList({questions, options,ans}, {questions, options,ans}, {questions, options,ans}, {questions, options,ans}, {questions, options,ans}, {questions, options,ans}) --> 
+
+var counter = 0;
+
+
+submit.setOnClick{
+counter++
+loadQuestion()
+
+}
+
+
+fun loadQuestion(){
+questionTextView.text = arrayList[counter]["question"]
+
+option1TextView.text = arrayList[counter]["option1"]
+
+option2TextView.text = arraylist[counter]["option2"]
+
+
+}
+
+var userChoice = intent.
+
+arrayList; --> women_clothing --> array 
+
+
+postExecute(){
+when(userChoice){
+
+	"women" -> {
+			
+		textview1.text = arraylist[]
+		textview2.text = 
+		
+		}
+
+	"men" -> {
+			
+		textview1.text = 
+		textview2.text = 
+		
+		}
+
+}
+
+}
